@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://content.umami.is/website/images/umami-logo.png" alt="Umami Logo" width="100">
 </p>
@@ -25,7 +26,7 @@
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started:
 
 A detailed getting started guide can be found at [umami.is/docs](https://umami.is/docs/).
 
